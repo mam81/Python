@@ -5,7 +5,7 @@
 import random
 import PySimpleGUI as sg 
 
-class Dado:
+class Simulador_Dado:
 
     def __init__(self):
         self.valor_minimo = 1
@@ -45,7 +45,7 @@ class Dado:
         print(random.randint(self.valor_minimo, self.valor_maximo)) 
 
 
-dado_simulado = Dado()
+dado_simulado = Simulador_Dado()
 dado_simulado.iniciar()
 
 
