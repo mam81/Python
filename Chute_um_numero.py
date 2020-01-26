@@ -1,6 +1,6 @@
 # Projeto: Chute um número
 
-# Objetivo: Criar um algoritmo que gera um valor aleatório e eu tenho que ficar tentando o número até acertar
+# Objetivo: Criar um algoritmo que gera um valor aleatório e eo usuário deve arriscar valores para acertar!
 
 import random 
 import PySimpleGUI as sg
